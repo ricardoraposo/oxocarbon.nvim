@@ -342,6 +342,7 @@ vim.api.nvim_set_hl(0, "NvimTreeIndentMarker", {fg = oxocarbon.base02, bg = oxoc
 vim.api.nvim_set_hl(0, "NvimTreeEmptyFolderName", {fg = oxocarbon.base15, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "NvimTreeOpenedFolderName", {fg = oxocarbon.base15, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "NvimTreeNormal", {fg = oxocarbon.base04, bg = oxocarbon.none})
+vim.api.nvim_set_hl(0, "NvimTreeNormalFloat", {fg = oxocarbon.base04, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "NeogitBranch", {fg = oxocarbon.base10, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "NeogitRemote", {fg = oxocarbon.base09, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "NeogitHunkHeader", {fg = oxocarbon.base04, bg = oxocarbon.base02})
